@@ -1,0 +1,7 @@
+textblob
+
+pandas
+
+wordcloud
+
+matplotlibS
