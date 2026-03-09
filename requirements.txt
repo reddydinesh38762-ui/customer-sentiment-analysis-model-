@@ -4,4 +4,4 @@ pandas
 
 wordcloud
 
-matplotlibS
+matplotlib
